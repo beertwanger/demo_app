@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 DemoApp::Application.configure do
+=======
+Rails.application.configure do
+>>>>>>> f42266993e40ebcaf03dd4757a713f250637b6d0
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded on
